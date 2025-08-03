@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anto Arockia Infant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinfant2528&label=Profile%20views&color=0e75b6&style=flat" alt="antoinfant2528" /> </p>
-
-
+<br>
 - 🌱 I’m currently learning **ReactJs,MERNStack**
 
 - 👯 I’m looking to collaborate on **MernStack**
